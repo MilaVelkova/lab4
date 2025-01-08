@@ -21,7 +21,7 @@ class EventDetailsDialog extends StatelessWidget {
         children: [
           TextField(
             controller: titleController,
-            decoration: InputDecoration(labelText: 'Назив на полагањето'),
+            decoration: InputDecoration(labelText: 'Предмет'),
           ),
           TextField(
             controller: locationController,

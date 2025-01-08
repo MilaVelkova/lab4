@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'package:lab4/screen/EventDetailsDialog.dart';
-import 'package:lab4/screen/MapScreen.dart';
+import 'package:lab4/screens/EventDetailsDialog.dart';
+import 'package:lab4/screens/MapScreen.dart';
 import 'package:table_calendar/table_calendar.dart';
 import 'firebase_options.dart';
 import 'models/Event.dart';
